@@ -1,0 +1,18 @@
+ul.nav-treeview>li.nav-item {
+	border-left: solid 1px #fff;
+	margin-left: 1.7rem;
+}
+
+ul.nav-treeview>li.nav-item>a.nav-link {
+	margin-left: 0.3em;
+}
+
+.btn.dropdown-toggle.btn-light {
+	background-color: #fff !important;
+	border-color: #ced4da !important;
+}
+
+span>hr {
+	margin-top: 0.2rem !important;
+	margin-bottom: 0.2rem !important;
+}
